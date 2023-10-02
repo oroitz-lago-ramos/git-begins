@@ -1,0 +1,8 @@
+Afin de cloner un repo, nous pouvons utiliser https ou par ssh.
+Comme nous nous sommes authentifiés avec une clée ssh nous devons faire :
+git clone git@github.com:oroitz-lago-ramos/git-begins.git
+
+Afin de pusher nos modification nous faisons:
+git add .
+git commit -m 'nom du commit'
+git push
